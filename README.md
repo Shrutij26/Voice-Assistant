@@ -26,6 +26,6 @@ This is a cool Python voice assistant that listens to you and does tasks! 😎 Y
 
 📋 Command to Run
 Clone the repo and run this command to start the Voice Assistant:
-git clone https://github.com/your-username/voice-assistant.git && cd voice-assistant && pip install speechrecognition pyttsx3 wikipedia && python voice_assistant.py
+https://github.com/Shrutij26/Voice-Assistant.git&& cd voice-assistant && pip install speechrecognition pyttsx3 wikipedia && python voice_assistant.py
 
 Built with 💖 by [Your Name]
