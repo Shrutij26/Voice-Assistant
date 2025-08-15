@@ -1,7 +1,6 @@
 **Voice Assistant 🎙️✨**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**📝 Description
-**
+**📝 Description**
 
 This is a cool Python voice assistant that listens to you and does tasks! 😎 You can ask it for the time, search Wikipedia, or stop it. 🗣️ It uses your microphone to hear commands and speaks back with answers. 🎶 Super fun and easy to use!
 
