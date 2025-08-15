@@ -1,7 +1,7 @@
-Voice Assistant 🎙️✨
+**Voice Assistant 🎙️✨**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📝 Description
-
+**📝 Description
+**
 
 This is a cool Python voice assistant that listens to you and does tasks! 😎 You can ask it for the time, search Wikipedia, or stop it. 🗣️ It uses your microphone to hear commands and speaks back with answers. 🎶 Super fun and easy to use!
 
@@ -15,7 +15,7 @@ This is a cool Python voice assistant that listens to you and does tasks! 😎 Y
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🛠️ Tools Used
+**🛠️ Tools Used**
 
 
 🐍 Python 3: The main programming language.
@@ -32,7 +32,7 @@ This is a cool Python voice assistant that listens to you and does tasks! 😎 Y
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-😓 Challenges Faced
+**😓 Challenges Faced**
 
 
 🚫 Sometimes the microphone didn’t catch words clearly, so I added noise adjustment. 🔊
@@ -45,7 +45,7 @@ This is a cool Python voice assistant that listens to you and does tasks! 😎 Y
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📋 Command to Run
+**📋 Command to Run**
 
 Clone the repo and run this command to start the Voice Assistant:
 
@@ -53,6 +53,6 @@ https://github.com/Shrutij26/Voice-Assistant.git&& cd voice-assistant && pip ins
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Built with 💖 by Shruti
+**Built with 💖 by Shruti**
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
